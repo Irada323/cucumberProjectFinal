@@ -2,7 +2,7 @@
 Feature: Items Management
 
 
-  # any steps defined under background will be executed before the first step of eahc scenarios
+  # any steps defined under background will be executed before the first step of each scenarios
   # in the feature file.
   Background: 
     Given As an entity user, I am logged in
